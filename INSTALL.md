@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
 
 #### Install using Git
 
@@ -15,3 +15,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 1. Do this
 2. Then that
 3. Boom! It's working
+
+C:\Users\diego\AppData\Local\EverythingToolbar\
