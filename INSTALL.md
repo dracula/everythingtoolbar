@@ -20,6 +20,4 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 2. Click on the three dots in the upper right corner.
 3. In the pop-up window that appears select Preferences
 4. In the next pop-up window that appears select Theme
-5. Now select the Dracula theme.
-
-C:\Users\diego\AppData\Local\EverythingToolbar\
+5. Now select the Dracula theme. Enjoy it!
