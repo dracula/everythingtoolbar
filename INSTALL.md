@@ -16,7 +16,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Activating theme
 
-1. Open EverythingToolbar by clicking its search box or by pressing its Hot Key which defaults to <kbd>Win</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd> and press any A-Z or 0-9 key in the search box to open the EverythingToolbar main window.
+1. Open EverythingToolbar by clicking its search box or by pressing its Hot Key which defaults to <kbd>Win</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd> and press any alphanumeric key in the search box to open the EverythingToolbar main window.
 2. Click on the three dots in the upper right corner.
 3. In the pop-up window that appears select *Preferences*.
 4. In the next pop-up window that appears select *Theme*.
