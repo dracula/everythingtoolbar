@@ -1,0 +1,41 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="SearchBoxBackground" Color="#ff282a36" />
+    <SolidColorBrush x:Key="SearchBoxBackgroundHover" Color="#ff44475a" />
+    <SolidColorBrush x:Key="SearchBoxBackgroundActive" Color="#ff282a36" />
+    <SolidColorBrush x:Key="SearchBoxForeground" Color="#ffdadada" />
+    <SolidColorBrush x:Key="SearchBoxForegroundHover" Color="#ffdadada" />
+    <SolidColorBrush x:Key="SearchBoxForegroundActive" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="SearchBoxWatermarkForeground" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="SearchBoxWatermarkForegroundHover" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="SearchBoxWatermarkForegroundActive" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="SearchBoxBorder" Color="#ff6272A4" />
+    <SolidColorBrush x:Key="SearchBoxBorderHover" Color="#ff44475a" />
+    <SolidColorBrush x:Key="SearchBoxBorderActive" Color="#ff44475a" />
+    <SolidColorBrush x:Key="SearchBoxLogo" Color="#ffffb86c" />
+    <SolidColorBrush x:Key="SearchBoxLogoHover" Color="#ffffb86c" />
+    <SolidColorBrush x:Key="SearchBoxLogoActive" Color="#ffffb86c" />
+    <SolidColorBrush x:Key="SearchResultsViewBackground" Color="#ff282A36" />
+    <SolidColorBrush x:Key="SearchResultsViewBorder" Color="#ff6272a4" />
+    <SolidColorBrush x:Key="SearchResultsViewHeader" Color="#ff44475a" />
+    <SolidColorBrush x:Key="TabForeground" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="TabForegroundHover" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="TabForegroundActive" Color="#ff50fa7b" />
+    <SolidColorBrush x:Key="TabBorderActive" Color="#ff50fa7b" />
+    <SolidColorBrush x:Key="TabBarBorder" Color="#ff44475a" />
+    <SolidColorBrush x:Key="SearchResultBackgroundHover" Color="#ff44475a" />
+    <SolidColorBrush x:Key="SearchResultBackgroundActive" Color="#ff6272a4" />
+    <SolidColorBrush x:Key="SearchResultFileName" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="SearchResultPath" Color="#ffbd93f9" />
+    <SolidColorBrush x:Key="SearchResultDateModified" Color="#ffffb86c" />
+    <SolidColorBrush x:Key="SearchResultFileSize" Color="#fff1fa8c" />
+    <SolidColorBrush x:Key="ScrollbarBackground" Color="#ff44475a" />
+    <SolidColorBrush x:Key="ScrollbarButtonForeground" Color="#ff282a36" />
+    <SolidColorBrush x:Key="ScrollbarButtonForegroundActive" Color="#fff8f8f2" />
+    <SolidColorBrush x:Key="ScrollbarButtonBackground" Color="#ff6272a4" />
+    <SolidColorBrush x:Key="ScrollbarButtonBackgroundHover" Color="#ffbd93f9" />
+    <SolidColorBrush x:Key="ScrollbarButtonBackgroundActive" Color="#ff282a36" />
+    <SolidColorBrush x:Key="ScrollbarThumbBackground" Color="#ffff79c6" />
+    <SolidColorBrush x:Key="ScrollbarThumbBackgroundHover" Color="#ffbd93f9" />
+    <SolidColorBrush x:Key="ScrollbarThumbBackgroundActive" Color="#ffff79c6" />
+</ResourceDictionary>
