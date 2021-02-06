@@ -10,7 +10,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 1. Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
 
-2. Copy or move `Dracula.xaml` to Themes folder, located at `C:\Users\UserName\AppData\Local\EverythingToolbar\Themes` if you installed EverythingToolbar through the installer of the latest beta version or inside the Themes folder if you use the portable version.
+2. Copy or move `Dracula.xaml` to Themes folder, located at `C:\Users\UserName\AppData\Local\EverythingToolbar\Themes` or inside the Themes folder if you use the portable version.
 
 3. Restart Windows Explorer via the task manager for the new theme to appear in the EverythingToolbar settings.
 
