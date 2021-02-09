@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/template.git
+    $ git clone https://github.com/dracula/everythingtoolbar.git
 
 #### Install manually
 
-1. Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+1. Download using the [GitHub .zip download](https://github.com/dracula/everythingtoolbar/archive/master.zip) option and unzip them.
 
 2. Copy or move `Dracula.xaml` to Themes folder, located at `C:\Users\UserName\AppData\Local\EverythingToolbar\Themes` or inside the Themes folder if you use the portable version.
 
