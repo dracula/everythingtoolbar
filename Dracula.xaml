@@ -6,7 +6,7 @@
     <SolidColorBrush x:Key="ContextMenuItemBackgroundActive" Color="#ff6272a4" />
     <SolidColorBrush x:Key="ContextMenuItemForeground" Color="#fff8f8f2" />
     <SolidColorBrush x:Key="ContextMenuItemForegroundHover" Color="#ffbd93f9" />
-    <SolidColorBrush x:Key="ContextMenuItemForegroundActive" Color="#ffd8d8d8" />
+    <SolidColorBrush x:Key="ContextMenuItemForegroundActive" Color="#fff8f8f2" />
     <SolidColorBrush x:Key="ContextMenuBackground" Color="#ff282a36" />
     <SolidColorBrush x:Key="SearchBoxBackground" Color="#ff282a36" />
     <SolidColorBrush x:Key="SearchBoxBackgroundHover" Color="#ff44475a" />
