@@ -2,7 +2,10 @@
 
 > A dark theme for [EverythingToolbar](https://github.com/stnkl/EverythingToolbar).
 
+## Windows 10
 ![Screenshot](./screenshot.png)
+## Windows 11 
+![everythingtoolbar W11](https://github.com/dracula/everythingtoolbar/assets/50301201/a7470c4b-91ed-4827-a5e5-e2b57cdc64f0)
 
 ## Install
 
